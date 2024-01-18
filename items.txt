@@ -1,0 +1,24 @@
+temp empty 
+<i class="fa-solid fa-temperature-empty"></i>
+
+
+temp 3 quaters 
+<i class="fa-solid fa-temperature-three-quarters"></i>
+
+temp quaters
+<i class="fa-solid fa-temperature-quarter"></i>
+
+
+temp low 
+<i class="fa-solid fa-temperature-low"></i>
+
+
+temp high
+<i class="fa-solid fa-temperature-high"></i>
+
+
+temp half 
+<i class="fa-solid fa-temperature-half"></i>
+
+temp full
+<i class="fa-solid fa-temperature-full"></i>
